@@ -1,0 +1,8 @@
+tensorflow
+opencage
+numpy
+imageio
+matplotlib
+tqdm
+pandas
+wbgapi
