@@ -13,7 +13,7 @@ These satellite images are then inputted into the classification algorithm which
 
 # Set-up Instructions
 
-1. Download the repository as a zip folder. Extract the entire folder and save all contents into one main folder.
+1. Download the repository as a zip folder. Extract the entire folder and save all contents into one main folder. Create a new folder in the project directory named "Images"
 2. Make sure to have 3.10.9 downloaded: https://www.python.org/downloads/release/python-3109/
 3. Open up the command prompt and enter the directory where the files have been stored. Type "pip install -r libraries.txt" into the command prompt to download all of the necessary python libraries.
 3. Visit the following link and download the file: https://drive.google.com/file/d/1tjqo3YFVMUxOcH1sUHr3dktlfb3AXUFz/view?usp=sharing. Save the file into the same folder as all other files.
