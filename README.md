@@ -21,5 +21,6 @@ These satellite images are then inputted into the classification algorithm which
 5. Visit the geocode api to generate a personal API key. Once generated, copy this key and paste it into the dictionary named "important_info" inside of the quotation marks that come after "Geocode_api_key".
 6. Run the Test.py file and wait for the prompt to type in a city. Type in any city in South America or South East Asia and wait for 8-10 minutes for the program to run.
 7. The final output should be a matplotlib window that contains the image of the city to the left and the heatmap output on the right: 
+
 ![This is an image](https://github.com/ParkiratS/OfficialSatNet/blob/main/example.PNG)
 * The code is still in development phase and so the instructions are quite rudimentary. If you have any questions or want a more detailed set of instructions, please email me at parkiratsandhu1@gmail.com
